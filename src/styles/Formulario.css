@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Maru+Gothic:wght@500;900&display=swap');
+
+.navbar-brand {
+    color: white !important;
+    font-size: larger;
+    font-weight: 900;
+    font-family: 'Zen Maru Gothic', sans-serif;
+    font-size: 50px;
+    margin-left: 420px;
+}
+
+.texto1{
+    font-weight: 500;
+    font-family: 'Zen Maru Gothic', sans-serif;
+    font-size: 35px;
+}
+
+.texto2{
+    font-weight: 500;
+    font-family: 'Zen Maru Gothic', sans-serif;
+    font-size: 35px;
+}
+
+.texto3{
+    font-weight: 500;
+    font-family: 'Zen Maru Gothic', sans-serif;
+    font-size: 35px;
+}
+
